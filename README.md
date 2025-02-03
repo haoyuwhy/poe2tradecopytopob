@@ -11,8 +11,8 @@ Cooperate with pob to help you find the right equipment for you faster
 
 # How to use
 
-1.download zip file from [Here](https://github.com/haoyuwhy/poe2tradecopytopob/releases/tag/public)
+1.download zip file from [Here](https://github.com/haoyuwhy/poe2tradecopytopob/releases/tag/public).
 
-2.drop the zip file to you browser extensions manager
+2.drop the zip file to you browser extensions manager.
 
-3.open poe2 trade web and copy, then paste to pob
+3.open poe2 trade web copy then paste to pob.
