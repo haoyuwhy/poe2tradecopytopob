@@ -15,4 +15,4 @@ Cooperate with pob to help you find the right equipment for you faster
 
 2.drop the zip file to you browser extensions manager
 
-3.open poe2 trade web and copy
+3.open poe2 trade web and copy, then paste to pob
