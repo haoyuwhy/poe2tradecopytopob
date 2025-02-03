@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "POE Trade Copier",
+    "description": "Copy item info to PoB.",
+    "version": "1.0",
+    "permissions": [
+        "activeTab",
+        "clipboardWrite"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.pathofexile.com/trade2/*"
+            ],
+            "js": ["content.js"]
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+
+}
